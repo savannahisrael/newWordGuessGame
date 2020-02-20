@@ -1,0 +1,2 @@
+# wordGuessGame
+Vanilla Javascript Project
